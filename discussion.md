@@ -7,7 +7,9 @@ You will be asked to
 4. submit the discussion report on [Google Drive](https://drive.google.com/drive/folders/1eW3-PCS-H1-GaT8PSTtsyCHo6EUnrfb2?usp=share_link)
 
 ## Discussion Prompt
-- All students will submit the discussion prompts before class, after watching the video(s) uploaded, **until every Wednesday at 6 pm** (submit on KLMS).
+- The interview/lecture videos before class will be uploaded by every Monday 23:59.
+- All students will submit the discussion prompts before class, after watching the video(s) uploaded, **until every Wednesday at 6 pm** (submit on Google Forms).
+- If you do not submit a discussion prompt, 0.3pt will be deducted from your attendance point, which is 10% of the whole evaluation score. If you are late for the submission, 0.1pt will be deducted.
 - Please refer to the following examples for the discussion prompt.
 
 ```
